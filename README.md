@@ -41,8 +41,9 @@
         git checkout <your branch name>
     
     -open the project in IntelliJ or your IDE of choice (refer to IDE documentation for assistance importing a Maven project from IntelliJ)
+        -update the application.yaml file with the appropriate database url and credentials
     -use VS Code or another editor if your IDE does not provide support for front-end technologies
-      -open a new terminal window and navigate to the angular-calendar directory
-      -run 'npm install'
-      -once the dependencies have been installed run 'ng serve -o' to start the Angular application and open a new browser window
+        -open a new terminal window and navigate to the angular-calendar directory
+        -run 'npm install'
+        -once the dependencies have been installed run 'ng serve -o' to start the Angular application and open a new browser window
     
